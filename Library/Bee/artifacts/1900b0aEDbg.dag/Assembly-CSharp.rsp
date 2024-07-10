@@ -355,8 +355,10 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Unity/2022.3.21f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/2022.3.21f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/ObjectExplode.cs"
-"Assets/Scripts/RayCast.cs"
+"Assets/Scripts/Cube.cs"
+"Assets/Scripts/CubeSpawner.cs"
+"Assets/Scripts/Exploder.cs"
+"Assets/Scripts/RayCaster.cs"
 -langversion:9.0
 
 /deterministic
